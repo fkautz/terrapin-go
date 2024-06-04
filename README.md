@@ -18,8 +18,8 @@ Terrapin is a Go library and command-line tool for creating and verifying data a
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/fkautz/terrapin.git
-cd terrapin
+git clone https://github.com/fkautz/terrapin-go.git
+cd terrapin-go
 ```
 
 ### Build the Command-Line Tool
